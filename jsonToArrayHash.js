@@ -3,14 +3,14 @@
 
 // Data will be the data structure we need to manipulate
 var data = {
-  "Production": {
+  "Value1": {
     "host1": "host1.com",
     "host2": "host2.com",
     "host3": "host3.com",
     "host4": "host4.com",
     "host5": "host5.com"
   },
-  "other": {
+  "Value2": {
     "host1": "host1.com",
     "host2": "host2.com",
     "host3": "host3.com",
