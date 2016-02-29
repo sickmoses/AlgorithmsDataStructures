@@ -38,7 +38,7 @@ function tf(data){
 
       value = {
         "label": hold[e],
-        "catgory": d
+        "category": d
       };
       a.push(value);
     };
